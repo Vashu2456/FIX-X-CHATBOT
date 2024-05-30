@@ -1,5 +1,5 @@
 {
-  "name": "VASHU X CHATBOT",
+  "name": "FIX",
   "description": "A telegram CHAT bot",
   "logo": "https://telegra.ph/file/6368cf50226f851cf12b0.jpg",
   "keywords": [
@@ -16,7 +16,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/Vashu2456/VASHU-CHATBOT",
+  "repository": "https://github.com/Vashu2456/FIX-X-CHATBOT",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
@@ -56,7 +56,7 @@
     "UPDATE_CHANNEL": {
       "description": "Name of the update channel",
       "required": true,
-      "value": "Vashu56789"
+      "value": "https://t.me/Vashu56789"
     }
   }
 }
