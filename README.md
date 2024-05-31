@@ -1,23 +1,34 @@
 <h2 align="center">
-    ──「 VASHU STRING - SESSION  」──
+    ──「 VASHU FIX-X-CHATBOT  」──
 </h2>
 
+
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/3bc25abc75d13ce4656c4.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=+👻+𝐇𝐄𝐋𝐋𝐎+𝐌𝐘+𝐃𝐄𝐀𝐑+𝐈+𝐀𝐌+𝐕𝐀𝐒𝐇𝐔+𝐀𝐍𝐃+𝐓𝐇𝐈𝐒+𝐌𝐘+𝐑𝐄𝐏𝐎+𝐏𝐋𝐄𝐀𝐒𝐄+𝐅𝐎𝐑𝐊+𝐈𝐓+🖤+🥀"></b></h3>
+
+
 <p align="center">
-  <img src="https://telegra.ph/file/3bc25abc75d13ce4656c4.jpg" alt="StringGen">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Vashu2456/count.svg" />
+</p>
+
+<<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=60FD2D&width=350&lines=🤖+👑𝐅𝐈𝐗+𝐗+𝐂𝐇𝐀𝐓+𝐁𝐎𝐓👑+👻"></b></h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file/3bc25abc75d13ce4656c4.jpg" alt="pingen">
 </p>
 
 
 
 <p align="center">
-<a href="https://github.com/AtulxD/Vashu2456/FIXXMUSICV"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AtulxD/FIXXMUSICV/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AtulxD/FIXXMUSICV/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/AtulxD/Vashu2456/FIX-X-CHATBOT"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AtulxD/FIX-X-CHATBOT/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AtulxD/FIX-X-CHATBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AtulxD/FIXXMUSICV/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AtulxD/FIXXMUSICV/commits/Vashu2456"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/64ea4bd0f837cdb009de1.jpg" alt="StringGen">
+  <img src="https://telegra.ph/file/00626654bd4e58fd5dc59.jpg" alt="picgen">
 </p>
 
 <p align="center">
@@ -30,7 +41,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vashu2456/VASHU-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="510" height="138.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vashu2456/FIX-X-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="510" height="138.45"/></a></p>
 
 
 <h3 align="center">
@@ -75,12 +86,12 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Vashu2456/STRING-SESSIONV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=STRING-SESSION&theme=chartreuse-dark"></a>
+<a href="https://github.com/Vashu2456/FIX-X-CHATBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=FIX-X-CHATBOT&theme=chartreuse-dark"></a>
 
 
 
 
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
+### 🤖 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/Vashu2456"><img alt="Website" src="https://img.shields.io/badge/%F0%9D%99%91%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%83%F0%9D%99%9023456"></a>
  
 
