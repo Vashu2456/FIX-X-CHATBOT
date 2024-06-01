@@ -1,5 +1,5 @@
 {
-  "name": "FIXXCHATBOT",
+  "name": "FIXX",
   "description": "A telegram CHAT bot",
   "logo": "https://telegra.ph/file/6368cf50226f851cf12b0.jpg",
   "keywords": [
@@ -56,7 +56,7 @@
     "UPDATE_CHANNEL": {
       "description": "Name of the update channel",
       "required": true,
-      "value": "https://t.me/Vashu56789"
+      "value": "https://t.me/Vashu_Paid_CC"
     }
   }
 }
