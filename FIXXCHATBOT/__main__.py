@@ -7,7 +7,7 @@ from  FIXXCHATBOT import LOGGER, app
 from FIXXCHATBOT.modules import ALL_MODULES
 
 
-async def jarvis_boot():
+async def vashu_boot():
     try:
         await app.start()
     except Exception as ex:
