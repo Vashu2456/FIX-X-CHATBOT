@@ -3,7 +3,7 @@ import importlib
 
 from pyrogram import idle
 
-from  FIXXCHATBOT import LOGGER, app
+from FIXXCHATBOT import LOGGER, app
 from FIXXCHATBOT.modules import ALL_MODULES
 
 
