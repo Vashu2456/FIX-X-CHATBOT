@@ -11,7 +11,7 @@ mongo = MongoCli(config.MONGO_URL)
 db = mongo.Anonymous
 OWNER = config.OWNER_ID
 
-class bot(Client):
+class app(Client):
     def __init__(self):
         super().__init__(
             name="app",
@@ -33,5 +33,4 @@ class bot(Client):
     async def stop(self):
         await super().stop()
 
-
-app = bot()
+app = app()
