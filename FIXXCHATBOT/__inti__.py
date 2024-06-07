@@ -1,29 +1,17 @@
 import logging 
 import time
 from Abg import patch
-
 from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 from pyrogram import Client
 from pyrogram.enums import ParseMode
-
 import config
 
-logging.basicConfig(
-    format="[%(asctime)s - %(levelname)s] - %(name)s - %(message)s",
-    datefmt="%d-%b-%y %H:%M:%S",
-    handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
-    level=logging.INFO,
-)
-
-logging.getLogger("pyrogram").setLevel(logging.ERROR)
-logging.getLogger("pymongo").setLevel(logging.ERROR)
-LOGGER = logging.getLogger(__name__)
 boot = time.time()
 mongo = MongoCli(config.MONGO_URL)
 db = mongo.Anonymous
 OWNER = config.OWNER_ID
 
-class app(Client):
+class bot(Client):
     def __init__(self):
         super().__init__(
             name="app",
@@ -46,4 +34,4 @@ class app(Client):
         await super().stop()
 
 
-app = app()
+app = bot()
