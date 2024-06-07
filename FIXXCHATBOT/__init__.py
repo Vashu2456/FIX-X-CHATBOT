@@ -22,7 +22,7 @@ mongo = MongoCli(config.MONGO_URL)
 db = mongo.Anonymous
 OWNER = config.OWNER_ID
 
-class nexichat(Client):
+class app(Client):
     def __init__(self):
         super().__init__(
             name="nexichat",
@@ -45,4 +45,4 @@ class nexichat(Client):
         await super().stop()
 
 
-nexichat = nexichat()
+app = app()
