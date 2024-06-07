@@ -15,7 +15,7 @@ async def anony_boot():
         quit(1)
 
     for all_module in ALL_MODULES:
-        importlib.import_module("nexichat.modules." + all_module)
+        importlib.import_module("FIXXCHATBOT.modules." + all_module)
 
     LOGGER.info(f"@{app.username} Started.")
     await idle()
