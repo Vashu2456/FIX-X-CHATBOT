@@ -124,8 +124,7 @@ WELCOME_IMG = [
 ]
 
 WELCOME_TXT= "ᴀᴀ ɢʏᴇ ᴀᴀᴘ💗 , ᴀᴀᴘ ʜɪ ᴋᴀ ɪɴᴛᴢᴀᴀʀ ᴛʜᴀ...ᴀʙʙ ᴊᴀɴᴀ ᴍᴀᴛ ᴋᴀʜɪ ʏʜɪ ʀᴀʜᴏ ᴀᴜʀ ᴍᴇʀᴇ KO APNE GROUP MAY ADD KARLO 🤭😅"
-# Welcome message for new chat members
 @app.on_message(filters.new_chat_members)
 async def welcome_message(_, m: Message):
     for member in m.new_chat_members:
-        await m.reply_photo(photo=random.choice(WELCOME_IMG
+        await m.reply_photo(photo=random.choice(WELCOME_IMG))
