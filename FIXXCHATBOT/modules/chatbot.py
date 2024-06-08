@@ -41,7 +41,7 @@ async def chatbot_text(client: Client, message: Message):
 
     if not message.reply_to_message:
         Fixxdb = MongoClient(MONGO_URL)
-        FIxx  = anniedb["FixxDb"]["Fixx"]
+        FIxx  = Fixxdb["FixxDb"]["Fixx"]
         is_fixx  = fixx.find_one({"chat_id": message.chat.id})
         if not is_fixx:
             await client.send_chat_action(message.chat.id, ChatAction.TYPING)
